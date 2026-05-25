@@ -6,7 +6,7 @@
 
 **GitHub Repository:** [github.com/SamurAIGPT/ai-knowledge-base](https://github.com/SamurAIGPT/ai-knowledge-base)
 
-**Live Demo Preview:** [ai-knowledge-base-smoky.vercel.app](https://ai-knowledge-base-smoky.vercel.app/)
+**Live Demo Preview:** [ai-knowledge-base-six.vercel.app](https://ai-knowledge-base-six.vercel.app/)
 
 ### 📸 Studio Workspace Preview
 
@@ -61,7 +61,7 @@ This architecture is engineered explicitly for **Vercel** serverless environment
 
 [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/SamurAIGPT/ai-knowledge-base)
 
-**Live App:** [ai-knowledge-base-smoky.vercel.app](https://ai-knowledge-base-smoky.vercel.app/)
+**Live App:** [ai-knowledge-base-six.vercel.app](https://ai-knowledge-base-six.vercel.app/)
 
 ### 🔑 Required Environment Variables
 
