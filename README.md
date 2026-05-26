@@ -1,6 +1,9 @@
-# 🧠 KnowBase AI — Premium AI Custom Knowledge Agent SaaS
+# 🧠 KnowBase AI — Open-Source AI Custom Knowledge Base & RAG Chatbot Builder (Free Chatbase / Botpress Alternative)
 
-> **A beautifully designed, high-contrast custom RAG Knowledge Sandbox.** Built with Next.js (App Router), this application is a self-contained SaaS boilerplate for uploading documents, scraping urls, or inserting custom Q&As to train custom AI agents and query them in an interactive chat playground with references and citations.
+> **Build custom AI chatbots trained on your documents, URLs, and Q&A data — with citations, embed widgets, and real-time conversations.** A production-ready, self-hostable Next.js SaaS boilerplate with semantic context retrieval and iframe-embeddable bots. A free open-source alternative to Chatbase, CustomGPT, Botpress, SiteGPT, and Stack AI — powered by the MuAPI AI engine.
+
+**Tech stack:** Next.js 14 (App Router) · Prisma · PostgreSQL · NextAuth (Google OAuth) · Stripe · Tailwind CSS · MuAPI · RAG / semantic retrieval · OpenAI
+**Use cases:** Customer support automation · Internal documentation Q&A · Sales lead qualification · Documentation chatbots · Course/training assistants · SaaS help bots · Knowledge management · Onboarding assistants · Embeddable site chat widgets
 
 ## 🌐 Project Details
 
